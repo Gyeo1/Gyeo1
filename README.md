@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyeol's%20Repository&fontSize=90)
+# -Introduce
+  한국산업기술대학교 임베디드 시스템 전공 4학년 재학중
 
 # -Langauge
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-069D7?style=plasitc&logo=Python&logoColor=white)
