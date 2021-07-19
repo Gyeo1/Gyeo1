@@ -2,8 +2,6 @@
 # -Introduce
   한국산업기술대학교 임베디드 시스템 전공 4학년 재학중
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyeo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
  
 
