@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyeol's%20Repository&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gyeol's%20Repository&fontSize=70)
 # -Introduce
-  한국산업기술대학교 임베디드 시스템 전공 4학년 재학중입니다.
+  Backend 
   
 
  
