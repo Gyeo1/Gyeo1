@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gyeol's%20Repository&fontSize=40)
 # -Introduce
-  Backend 
+  Backend 공부중인 사랍입니다.
   
 
- 
 
 
 # -Langauge
